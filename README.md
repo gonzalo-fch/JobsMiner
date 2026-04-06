@@ -1,5 +1,4 @@
 # JobsMiner
-# 📊 Tarea 3 – Extracción de Datos de Ofertas Laborales TI
 
 ## 🎯 Objetivo
 
