@@ -1,7 +1,7 @@
 import requests
 import json
 import time
-import os  # 👈 NUEVO
+import os 
 
 API_URL = "https://remoteok.com/api"
 
